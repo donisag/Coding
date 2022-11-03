@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cryochamber (Draft)
+* source:	https://sketchfab.com/3d-models/cryochamber-draft-a44ff28aebc44685b25b788f7215883a
+* author:	pogetan (https://sketchfab.com/pogetan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cryochamber (Draft)" (https://sketchfab.com/3d-models/cryochamber-draft-a44ff28aebc44685b25b788f7215883a) by pogetan (https://sketchfab.com/pogetan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
